@@ -64,13 +64,6 @@ header nav a:hover {
     color: white;
 }
 
-main {
-    min-height: 70vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 footer {
     min-height: 20vh;
     background-color: #f7dfe8;
@@ -145,32 +138,8 @@ h2 {
     margin-top: 3rem;
 }
 
-.img-section {
-    height: 100px;
-    width: 100%;
-    object-fit: cover;
-    filter: grayscale(1);
-    /* ou on peut faire en % aussi */
-}
-
 .nav-active {
     background-color: #ee0a61;
     border-radius: 10px;
     color: white;
-}
-
-/* FORM */
-form {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-}
-
-form input,form textarea{
-    padding: 2.5%;
-    border-radius: 10px;
-    font-family: "Roboto", sans-serif;
-    font-size: 0.85rem;
-    border: none;
-    cursor: pointer;
 }
