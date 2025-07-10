@@ -1,3 +1,4 @@
+
 /* POLICES */
 @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap');
 /*  font-family: "Baloo 2", sans-serif; */
@@ -92,11 +93,6 @@ footer ul {
 
 .logo {
     width: 150px;
-}
-
-section {
-    max-width: 1280px;
-    padding: 2.5%;
 }
 
 /* CLASSES GENERALES */
